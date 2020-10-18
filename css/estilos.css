@@ -1,0 +1,21 @@
+body{
+	background: lightblue;
+}
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1{
+	text-align: center;
+	font-size: 44px;
+
+}
+h2{
+	color: darkblue;
+}
+.orden{
+	color: white;
+	background: black;
+}

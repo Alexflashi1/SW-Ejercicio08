@@ -1,0 +1,2 @@
+[1018/104304.062:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1018/125832.663:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Alexis\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\78337021-aa0b-484c-b38c-465d37a7298c: El sistema no puede encontrar la ruta especificada. (0x3)
